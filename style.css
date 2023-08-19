@@ -24,6 +24,7 @@ body {
   align-items: center;
   justify-content: center;
   border: 3px solid #8B6947;
+
 }
 
 h1 {
@@ -46,7 +47,7 @@ p {
   border-radius: 50%;
   width: 175px;
   height: auto;
-  margin-bottom: 28px;
+  margin-bottom: 47px;
 }
 
 button {
